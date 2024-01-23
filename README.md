@@ -9,3 +9,4 @@
 ► Service Bus, que fará a tratativa de fila para o consumer atuar.
 
 ► Serviço Consumer que será responsável por registrar o cliente e enviar o email de confirmação.
+...
